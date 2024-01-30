@@ -1,9 +1,9 @@
-Projeto Whatslabs
+Whatslabs Project
 
-Consiste em criar um app de mensagem similar ao Whatssapp.
+It consists of creating a messaging app similar to WhatsApp.
 
-Tecnologia empregada:
+Technology Employed:
 
-Componentes Funcionais e de Classe + Estados, Props, Style-Components e Rendererização de listas.
+Functional and Class Components + States, Props, Style-Components, and List Rendering.
 
-Acesse: https://rtwhatsslab.vercel.app/
+Access: https://rtwhatsslab.vercel.app/
